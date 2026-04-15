@@ -28,7 +28,7 @@ REGRAS:
 
 Mais sobre Few-Shot Prompts no artigo [Zero, One e Few-Shot Prompts: Entendendo os Conceitos Básicos](https://hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/).
 
- [!TIP]
+> [!TIP]
 > **Tip - Few Shot Prompting**
 >  Use a técnica de Few Shot Prompting, ou seja, dê exemplos de perguntas e respostas ideais em suas regras. Quanto mais claro vcê for nas instruções, menos o seu agente vai alucinar
 ---
